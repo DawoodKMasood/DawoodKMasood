@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DawoodKMasood](https://github.com/DawoodKMasood)
 
-- 📝 I regularly write articles on [https://hackernoon.com/u/FlawTech](https://hackernoon.com/u/FlawTech)
+- 📝 I regularly write articles on [https://dawood.me](https://dawood.me)
 
 - 💬 Ask me about **php, html, js, css, etc!**
 
