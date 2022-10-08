@@ -7,13 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dawoodkmasood" target="blank"><img src="https://img.shields.io/twitter/follow/dawoodkmasood?logo=twitter&style=for-the-badge" alt="dawoodkmasood" /></a> </p>
 
-- 🔭 I’m currently working on [S2S Portal (Operations)](https://github.com/sayedsaddam/admin_pro)
-
 - 🌱 I’m currently learning **React Framework**
-
-- 👯 I’m looking to collaborate on [MANA (AI Crypto Trading Bot)](https://github.com/DawoodKMasood/MANA)
-
-- 🤝 I’m looking for help with [S2S Portal (Operations)](https://github.com/sayedsaddam/admin_pro)
 
 - 👨‍💻 All of my projects are available at [https://github.com/DawoodKMasood](https://github.com/DawoodKMasood)
 
