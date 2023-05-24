@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dawood Khan Masood</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dawoodkmasood&label=Profile%20views&color=0e75b6&style=algolia" alt="dawoodkmasood" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dawoodkmasood&label=Profile%20views&color=0e75b6&theme=juicyfresh" alt="dawoodkmasood" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dawoodkmasood" alt="dawoodkmasood" /></a> </p>
 
