@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dawoodkmasood" target="blank"><img src="https://img.shields.io/twitter/follow/dawoodkmasood?logo=twitter&style=for-the-badge" alt="dawoodkmasood" /></a> </p>
 
-- 🌱 I’m currently learning **React Framework**
+- 🌱 I’m currently learning **Vue.JS & Nest.Js Framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DawoodKMasood](https://github.com/DawoodKMasood)
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **php, html, js, css, etc!**
 
-- 📫 How to reach me **dawood.masood@s2smark.com**
+- 📫 How to reach me **dawoodkmasood@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dawoodkmasood/](https://www.linkedin.com/in/dawoodkmasood/)
 
